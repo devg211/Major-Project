@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "49833277197",
+    "firebase_url": "https://demofcm-311ab.firebaseio.com",
+    "project_id": "demofcm-311ab",
+    "storage_bucket": "demofcm-311ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49833277197:android:f400e0cf1092c815ee6244",
+        "android_client_info": {
+          "package_name": "com.example.project.securecommunicationusingdes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49833277197-4v7f534876mcj5u3us5cam4mn2dutrdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project.securecommunicationusingdes",
+            "certificate_hash": "d8fc0413014d603d36d77c7740587402814040f5"
+          }
+        },
+        {
+          "client_id": "49833277197-lmnlj030jkjeoajmu4q7ieka3jm8he1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project.securecommunicationusingdes",
+            "certificate_hash": "d1cd7731169c65bc791a7bab32bed9d213d1d094"
+          }
+        },
+        {
+          "client_id": "49833277197-7a5v74nl3sie10td23mole56c2vdiuna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc3l0on8BvwJISY8lF0yd_MKB7HQHYwAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49833277197-7a5v74nl3sie10td23mole56c2vdiuna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49833277197:android:fafc017ea183c559ee6244",
+        "android_client_info": {
+          "package_name": "com.example.securecommunicationusingdes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49833277197-7a5v74nl3sie10td23mole56c2vdiuna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc3l0on8BvwJISY8lF0yd_MKB7HQHYwAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49833277197-7a5v74nl3sie10td23mole56c2vdiuna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49833277197:android:b35f4bfd97d4b301ee6244",
+        "android_client_info": {
+          "package_name": "com.joad.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49833277197-hv1k5egg1ika1b7a86mljjr9a0f7lv8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joad.firebasecloudmessaging",
+            "certificate_hash": "d1cd7731169c65bc791a7bab32bed9d213d1d094"
+          }
+        },
+        {
+          "client_id": "49833277197-7a5v74nl3sie10td23mole56c2vdiuna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc3l0on8BvwJISY8lF0yd_MKB7HQHYwAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49833277197-7a5v74nl3sie10td23mole56c2vdiuna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

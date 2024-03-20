@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#AD000000"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/cryptography_bg"
+        android:layout_width="match_parent"
+        android:scaleType="fitXY"
+        android:layout_height="match_parent"
+        android:id="@+id/img"/>
+
+<!--    <TextView-->
+<!--        android:id="@+id/abc"-->
+<!--        android:layout_below="@+id/img"-->
+<!--        android:layout_marginTop="@dimen/_16sdp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:gravity="center"-->
+<!--        android:text="Secure Communication"-->
+<!--        android:textColor="@color/colorGray"-->
+<!--        android:textSize="40sp"-->
+<!--        android:textStyle="italic" />-->
+
+</RelativeLayout>

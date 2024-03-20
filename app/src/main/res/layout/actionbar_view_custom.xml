@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="?attr/colorPrimary">
+
+    <TextView
+        android:id="@+id/actionbar_view_tv_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:src="@mipmap/ic_launcher"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/_14sdp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/actionbar_view_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/_14sdp" />
+
+    <ImageView
+        android:id="@+id/actionbar_view_icon_right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/_6sdp"
+        android:padding="@dimen/_4sdp"
+        android:src="@mipmap/ic_launcher"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/actionbar_view_tv_right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/_6sdp"
+        android:padding="@dimen/_4sdp"
+        android:text=""
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/_12sdp" />
+
+
+    <LinearLayout
+        android:id="@+id/lvSwitch"
+        android:visibility="gone"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/_6sdp"
+        android:padding="@dimen/_4sdp" >
+        <Switch
+            android:id="@+id/actionbar_view_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/_12sdp" />
+
+        <TextView
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_12sdp"
+            android:text="Encyption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</RelativeLayout>
